@@ -1,4 +1,1 @@
-# Homepage
-Haolan Zhan
-Boxford, MA
-haolanzhan@gmail.com
+Online Portfolio for Haolan Zhan
