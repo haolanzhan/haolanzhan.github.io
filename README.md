@@ -1,2 +1,4 @@
-# profile
-Online CV for Haolan Zhan
+# Homepage
+Haolan Zhan
+Boxford, MA
+haolanzhan@gmail.com
